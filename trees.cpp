@@ -14,5 +14,3 @@ class node {
             right = r;
         }
 };
-
-node* root = new node(0);
